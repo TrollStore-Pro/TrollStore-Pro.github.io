@@ -1,12 +1,34 @@
 # [巨魔商店 & 巨魔工具 Pro](https://ios.ttkmm.com "巨魔商店")
 
+## 轻松签源 （esign、 轻松签、全能签、GBox）
+
+[一键添加轻松签](esign://addsource/?url=https://esign.ttkmm.com/appstore)
+
+[一键添加全能签](nsk-sign://addsource/?url=https://esign.ttkmm.com/appstore)
+
+[一键添加 GBox](gbox://AddSource/https://esign.ttkmm.com/appstore)
+
+## 巨魔源
+
+即将发布...
+
+## dylib 插件源
+
+即将发布...
+
 ## 越狱源
+
+[添加 Sileo](sileo://source/https://trollstore-pro.github.io/repo/)
+
+[添加 Zbra](zbra://sources/add/https://trollstore-pro.github.io/repo/)
+
+---
+
+## 常用软件源
 
 | 越狱源     | Sileo                                                       | Zebra |
 | ---------- |-------------------------------------------------------------|-------|
 | 全能玩机源 | [添加](sileo://source/https://trollstore-pro.github.io/repo/) | [添加](zbra://sources/add/https://trollstore-pro.github.io/repo/)  |
-|            |                                                             |       |
-|            |                                                             |       |
 
 
 
